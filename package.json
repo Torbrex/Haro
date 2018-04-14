@@ -1,0 +1,28 @@
+{
+  "name": "haro-bot",
+  "version": "1.0.0",
+  "description": "Keeps tracks of points",
+  "main": "bot1.js",
+  "engines": {
+      "node": "8.x",
+      "npm": "*"
+  },
+  "scripts": {
+
+    "start": "node bot1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torbrex/haro.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "Torbrex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/torbrex"
+  },
+  "homepage": "https://github.com/torbrex"
+}
