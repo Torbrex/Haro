@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/torbrex"
   },
-  "homepage": "https://github.com/torbrex"
+  "homepage": "https://github.com/torbrex",
+  "dependencies": {
+    "discord.js":"^10.0.1"
+},
 }
