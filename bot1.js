@@ -41,7 +41,8 @@ bot.on("message", message => {
           executeChangePointsCommand(message, args, false);
           break;
         default:
-            message.channel.send(`Error! I don't know the command '${command}'`);
+            //message.channel.send(`Error! I don't know the command '${command}'`);
+            return;
     }
 
 });
